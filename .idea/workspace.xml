@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18ae80a0-9159-4def-9c77-bef250d565ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Stock_Market_Prediction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock_prediction_app.py" afterDir="false" />
-    </list>
+    <list default="true" id="18ae80a0-9159-4def-9c77-bef250d565ea" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747843911784</updated>
-      <workItem from="1747843913085" duration="587000" />
+      <workItem from="1747843913085" duration="1050000" />
     </task>
     <servers />
   </component>
